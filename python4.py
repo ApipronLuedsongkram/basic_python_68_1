@@ -13,3 +13,18 @@ elif a >= b:
     print("a is less than or equal to b")
 else:
     print("a is greater than b")
+
+if a < b:
+    print("a is less than b")
+if a == b:
+    print("a is equal to b")
+
+if a < b: 
+    print("a is less than b")  # single line if statement
+elif a == b: 
+    print("a is equal to b")  # single line elif statement
+
+if a < b: 
+    print("a is less than b")  # single line if statement
+elif a == b: 
+    print("a is equal to b")  # single line elif statement 
