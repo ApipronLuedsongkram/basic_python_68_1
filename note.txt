@@ -1,0 +1,21 @@
+git clone https://github.com/ApipronLuedsongkram/basic_python_68_1.git
+
+cd name_folder
+cd ..
+ls 
+ls -al
+pwd
+
+code .
+antigravity .
+
+git init
+git remote add origin https://github.com/ApipronLuedsongkram/basic_python_68_1.git (# ทำให้เชื่อมกับ git)
+
+git config --global user.name "Apipron"
+git config --global user.email "apipron1623@gmail.com"
+
+git add .
+git commit -m "your message"
+git push orgin main
+git pull orgin main
